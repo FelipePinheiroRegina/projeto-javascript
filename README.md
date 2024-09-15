@@ -1,5 +1,7 @@
 # Projeto 🟡JavaScript🟡
-Criei um site em lingaugem Js, onde existe 5 interações com o usuário, pensei também na resposividade do site com cada dispositivo.
+Reponsivo && Dinâmico
+
+![Captura de tela de 2024-09-15 18-13-24](https://github.com/user-attachments/assets/c939c804-029a-4d1c-a31c-a332f94ebd6d)
 
 - Projeto [Acesse](https://felipepinheiroregina.github.io/projeto-javascript/index.html#)
 - Repositório
